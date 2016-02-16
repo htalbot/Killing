@@ -1,0 +1,5 @@
+project: test_Killing_ex, test_Killing_fit_static {
+
+    exename = test_Killing_static
+
+}

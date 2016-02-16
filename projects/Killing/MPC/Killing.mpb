@@ -1,0 +1,5 @@
+project: Killing_dependencies {
+    includes += $(KILLING_PRJ_ROOT)/include
+    libpaths += $(KILLING_PRJ_ROOT)/lib
+    libs += Killing
+}
